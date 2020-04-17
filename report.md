@@ -40,14 +40,14 @@ where
 - GAMMA (double): Discounting Factor
 - TAU (double): Soft Update hyperparameter
 
-Where 
-`LRactor=5e-4`
-`LRcritic=5e-4`
-`UPDATE_EVERY=1`
-`BUFFER_SIZE=100000`
-`BATCH_SIZE=128`
-`GAMMA=0.99`
-`TAU=0.001`
+where 
+`LRactor=5e-4
+LRcritic=5e-4
+UPDATE_EVERY=1
+BUFFER_SIZE=100000
+BATCH_SIZE=128
+GAMMA=0.99
+TAU=0.001`
 
 ### Neural Networks
 
